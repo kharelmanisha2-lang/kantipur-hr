@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - Kantipur HR Consultancy</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Kantipur HR Consultancy</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="jobs.html">Jobs</a>
+        <a href="contact.html" class="active">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>📞 +971 56 544 0963 | +971 52 960 0676</p>
+    <p>📧 cv@kantipurhrauh.com</p>
+    <p>🌐 kantipurtravelandtourism.com</p>
+
+    <form>
+      <label>Name:</label><br>
+      <input type="text" name="name" required><br><br>
+      <label>Email:</label><br>
+      <input type="email" name="email" required><br><br>
+      <label>Message:</label><br>
+      <textarea name="message" rows="5" required></textarea><br><br>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 Kantipur HR Consultancy | All Rights Reserved</p>
+  </footer>
+</body>
+</html>

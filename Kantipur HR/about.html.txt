@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - Kantipur HR Consultancy</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Kantipur HR Consultancy</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html" class="active">About</a>
+        <a href="services.html">Services</a>
+        <a href="jobs.html">Jobs</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Kantipur HR Consultancy is a trusted recruitment agency with over 3 years of experience in providing manpower solutions across the Middle East, Europe, and Asia. We specialize in skilled and unskilled recruitment for various industries such as hospitality, construction, sales, and logistics.</p>
+    <p>Our mission is to connect the right talent with the right opportunities, ensuring satisfaction for both employers and employees.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Kantipur HR Consultancy | All Rights Reserved</p>
+  </footer>
+</body>
+</html>

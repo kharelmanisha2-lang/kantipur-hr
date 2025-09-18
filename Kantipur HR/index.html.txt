@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kantipur HR Consultancy</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Kantipur HR Consultancy</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="jobs.html">Jobs</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h2>Your Trusted Recruitment Partner</h2>
+    <p>Providing skilled and unskilled manpower for global opportunities.</p>
+    <a class="btn" href="jobs.html">View Jobs</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Kantipur HR Consultancy | All Rights Reserved</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Openings - Kantipur HR Consultancy</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Kantipur HR Consultancy</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="jobs.html" class="active">Jobs</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section>
+    <h2>Current Job Openings</h2>
+    <ul>
+      <li>Waiters & Bartenders – Malta</li>
+      <li>Construction Workers – UAE</li>
+      <li>Sales Promoters – Dubai</li>
+      <li>Drivers & Logistics Staff – Qatar</li>
+    </ul>
+    <p>To apply, please send your CV to <strong>cv@kantipurhrauh.com</strong>.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Kantipur HR Consultancy | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
